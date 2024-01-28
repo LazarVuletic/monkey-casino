@@ -1,0 +1,36 @@
+{
+    "translation": {
+        "min_length_not_met": "Minimum length not met",
+        "max_length_not_met": "Maximum length not met",
+        "regex_failed": "Invalid input",
+        "email_validation_failed": "Invalid email",
+        "too_young": "You must be over 18",
+        "password_strength_failed": "Password not strong enough",
+        "matchesField_failed": "Passwords are not matching",
+        "username": "Username",
+        "fname": "First name",
+        "lname": "Last name",
+        "email": "E-mail",
+        "birthdate": "Birthdate",
+        "gender": "Gender",
+        "password": "Password",
+        "password_confirm": "Confirm Password",
+        "select_gender": "Select gender:",
+        "male": "Male",
+        "female": "Female",
+        "phone": "Phone",
+        "address": "Address",
+        "city": "City",
+        "countrycode": "Country",
+        "length_mismatch": "Please select a country",
+        "select_countrycode": "Select a country:",
+        "Montenegro": "Montenegro",
+        "Croatia": "Croatia",
+        "Malta": "Malta",
+        "register": "Register",
+        "success_title": "Well done monkey!",
+        "success_message": "You have successfully registered to the Monkey Casino. Happy gambling!",
+        "next_button": "Next"
+    }
+    
+  }
